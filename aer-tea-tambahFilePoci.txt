@@ -3,4 +3,5 @@ Branch ini terjadi penambahan file, namanya aer-tea-tambahFilePoci.txt, tahapan 
 - Kemudian click + (Add file)
 - Kasih nama file tersebut dengan nama aer-tea-tambahFilePoci.txt
 - Baris ini editan pertama
-- Merge branch ke main branch, caranya dengan (dari branch ini) click tombol compare & pull request.
+- Merge branch ke main branch, caranya dengan (dari branch ini) click tombol compare & pull request 
+  (note; jika tidak ada tombol compare & pull request, maka ada combo contribute -> open pull request).
